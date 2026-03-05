@@ -10,3 +10,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ymass404&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ymass404/Ymass404/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
+</p>
