@@ -5,6 +5,8 @@
 - 🔭 I work on **web projects and mini-games**
 - 📫 Contact : devbysam@hotmail.com
 
-### 🔥 Streak
+<h2 align="center">🔥 My GitHub Streak</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ymass404&theme=tokyonight)\*
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ymass404&theme=tokyonight&hide_border=true" />
+</p>
