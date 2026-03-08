@@ -2,8 +2,9 @@
 <h1 align="center"> Hi there 👋</h1>
 
 <h2 align="center"> About Me </h2>
-- 🔭 I work on **web projects and mini-games**
+<p align=center> - 🔭 I work on **web projects and mini-games** <br>
 - 📫 Contact : devbysam@hotmail.com
+</p
 
 <h2 align="center">🔥 My GitHub Streak</h2>
 
